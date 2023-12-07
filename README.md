@@ -15,10 +15,9 @@ This repository contains a Hotel Booking Management Website project developed us
 - **Responsive Design:** The page layout is responsive, ensuring compatibility across devices.
 
 ## Installation
-
 1. Clone this repository to your local machine using:
    ```
-  git clone [https://github.com/username/hotel-resort-booking.git](https://github.com/MTank76/oibsip_taskno.1.git)
+   git clone [https://github.com/username/hotel-resort-booking.git](https://github.com/MTank76/oibsip_taskno.1.git)
    ```
 
 2. Open `index.html` in your preferred web browser to view the booking page.
