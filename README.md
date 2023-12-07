@@ -16,9 +16,11 @@ This repository contains a Hotel Booking Management Website project developed us
 
 ## Installation
 1. Clone this repository to your local machine using:
-   ```https://github.com/MTank76/oibsip_taskno.1.git```
+   ```
+   https://github.com/MTank76/oibsip_taskno.1.git
+   ```
 
-2. Open `index.html` in your preferred web browser to view the booking page.
+3. Open `index.html` in your preferred web browser to view the booking page.
 
 ## Usage
 
