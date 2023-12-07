@@ -18,7 +18,7 @@ This repository contains a Hotel Booking Management Website project developed us
 
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/username/hotel-resort-booking.git
+  [ git clone https://github.com/username/hotel-resort-booking.git](https://github.com/MTank76/oibsip_taskno.1.git)
    ```
 
 2. Open `index.html` in your preferred web browser to view the booking page.
@@ -33,10 +33,3 @@ This repository contains a Hotel Booking Management Website project developed us
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open issues for suggestions or submit pull requests with proposed enhancements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
----
-
-Make sure to replace "username" in the clone URL with the appropriate username or organization name on GitHub. Additionally, include your specific project details, installation instructions, and usage guidelines as needed.
