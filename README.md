@@ -1,6 +1,6 @@
-# Hotel Resort Booking Page
+# Hotel Booking Management Website
 
-This repository contains a Hotel Booking Page project developed using HTML and CSS. The project aims to create a user-friendly interface for customers to explore the resort's amenities, view room options, and make reservations conveniently.
+This repository contains a Hotel Booking Management Website project developed using HTML and CSS. The project aims to create a user-friendly interface for customers to explore the resort's amenities, view room options, and make reservations conveniently.
 
 ## Project Structure
 
